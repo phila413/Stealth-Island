@@ -8,7 +8,7 @@ This game was developed by Phil A, Max M, and Curtis K.
 To play, first download the game from the google drive link.  After extracting the folder go into the folder and click the Windows/Stealth Island.exe.
 
 # Mac
-To play, first download the game from the google drive link by clicking the link, then click the "Download All" button in the top right.  Next, extract the folder.  Open up your terminal and us the "cd" command to make sure you are located in the folder you just downloaded.  Then type both of the commands:
+To play, first download the game from the google drive link by clicking the link, then click the "Download All" button in the top right.  Next, extract the folder.  Open up your terminal and use the "cd" command to make sure you are located in the folder you just downloaded.  Then type both of the commands:
  - cd Contents/MacOS
  - chmod +x "Stealth Island"
 
