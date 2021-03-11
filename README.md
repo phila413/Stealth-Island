@@ -12,6 +12,8 @@ To play, first download the game from the google drive link by clicking the link
  - cd Contents/MacOS
  - chmod +x "Stealth Island"
 
+Back in the file directory, click on the application to run the game.
+
 # Second Option
 If the google drive link does not work click the green code button on the top-right and click download.  Then, extract and continue with the steps for your OS (after the download from google drive link step above).
 
