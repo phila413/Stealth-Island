@@ -2,7 +2,7 @@
 This game was developed by Phil A, Max M, and Curtis K.
 
  - Windows Link: https://drive.google.com/file/d/14E8AFe-z7CLFBQ_o0RcESYkUoVJsUN4t/view?usp=sharing
- - Mac Link: https://drive.google.com/file/d/1hr--lYId8ikPHbVL221ePReWEFNpg3wq/view?usp=sharing
+ - Mac Link: https://drive.google.com/drive/folders/1qVCFZvYCZdaX8vR_LgGmkdCrCuZS2DRb?usp=sharing
 
 # Windows
 To play, first download the game from the google drive link.  After extracting the folder go into the folder and click the Windows/Stealth Island.exe.
@@ -12,8 +12,10 @@ To play, first download the game from the google drive link.  Next open up your 
  - cd 475_SGames.app/Contents/MacOS
  - chmod +x "Stealth Island"
 
-If the google drive link does not work click the green code button on the top-right and click download.  Then, extract and continue with the steps for your OS (after the download from google drive link step).
+# Second Option
+If the google drive link does not work click the green code button on the top-right and click download.  Then, extract and continue with the steps for your OS (after the download from google drive link step above).
 
+# Credits
 Credits to assets found in the Unity Asset store used are as follows:
  - Flooded Grounds Pack
  - Horror Ambient Sounds (https://soundcloud.com/dafydd-harvey/sets/unnerving-ambient-sounds)
