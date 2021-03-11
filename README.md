@@ -2,7 +2,7 @@
 This game was developed by Phil A, Max M, and Curtis K.
 
  - Windows Link: https://drive.google.com/file/d/14E8AFe-z7CLFBQ_o0RcESYkUoVJsUN4t/view?usp=sharing
- - Mac Link: https://drive.google.com/drive/folders/1qVCFZvYCZdaX8vR_LgGmkdCrCuZS2DRb?usp=sharing
+ - Mac Link: https://drive.google.com/drive/folders/1s9z97tMSZDAzzVWXcqLfw1_X20KQ8VKH?usp=sharing
 
 # Windows
 To play, first download the game from the google drive link.  After extracting the folder go into the folder and click the Windows/Stealth Island.exe.
